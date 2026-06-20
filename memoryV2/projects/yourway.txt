@@ -1,0 +1,78 @@
+{
+  "type": ["academic_project","masters"],
+  "project_name": "YourWay",
+  "tagline": "Travel Aggregator App",
+  "category": [
+    "Travel Technology",
+    "Social Platform",
+    "Community-based Travel Application"
+  ],
+  "institution": "Parul University",
+  "academic_level": "MCA Project",
+  "project_type": "Academic",
+  "repository": {
+    "platform": "GitHub",
+    "url": "github.com/jyotpatel14/YourWay"
+  },
+  "technology_stack": {
+    "frontend": [
+      "Android"
+    ],
+    "backend_services": [
+      "Firebase"
+    ],
+    "features": [
+      "Advanced Search",
+      "Realtime Chat",
+      "Media Posting",
+      "Thread-based Discussions",
+      "Upvote/Downvote System"
+    ]
+  },
+  "description": "Firebase-based travel aggregator application focused on community-driven travel experiences, interactive discussions, and realtime engagement mechanisms.",
+  "key_features": [
+    {
+      "feature": "Advanced Search Functionality",
+      "purpose": "Efficient travel discovery and filtering"
+    },
+    {
+      "feature": "Media Posting System",
+      "inspiration": [
+        "X (Twitter)",
+        "Reddit"
+      ],
+      "purpose": "Travel content sharing"
+    },
+    {
+      "feature": "Thread-based Discussions",
+      "purpose": "Community interactions around travel experiences"
+    },
+    {
+      "feature": "Upvote/Downvote Mechanism",
+      "purpose": "Community-driven content ranking"
+    },
+    {
+      "feature": "Realtime Chat",
+      "purpose": "Instant traveler communication"
+    }
+  ],
+  "impact": {
+    "user_engagement_increase": "40%"
+  },
+  "development_context": {
+    "role": "Masters Student",
+    "focus": [
+      "Realtime interaction systems",
+      "Social engagement mechanisms",
+      "Community-driven travel experiences"
+    ]
+  },
+  "concepts_explored": [
+    "Realtime systems",
+    "Social media architecture",
+    "Travel aggregation",
+    "Community moderation",
+    "User engagement optimization"
+  ],
+  "summary": "YourWay is a Firebase-powered travel aggregator and social interaction platform developed as an MCA academic project. The application combines travel discovery with social media-inspired community features such as threaded discussions, media posting, realtime chat, and a voting system to improve user engagement and traveler collaboration."
+}

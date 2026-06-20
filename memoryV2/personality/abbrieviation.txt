@@ -1,0 +1,257 @@
+Abbreviations, Aliases, and Terminology Reference for Jyot Kalpesh Patel
+
+This document serves as the abbreviation, alias, and terminology reference layer for Jyot Kalpesh Patel's memory system.
+
+Its purpose is to ensure that abbreviations, nicknames, shorthand terms, acronyms, and aliases are understood as equivalent to their full forms during memory retrieval, search, ranking, and response generation.
+
+Retrieval Rule
+
+Whenever an abbreviation, acronym, nickname, shorthand term, or alias appears in a user query, it should be treated as semantically equivalent to its canonical full form.
+
+For example:
+
+- OESS should be treated as OpenEyes Technologies Inc.
+- MCA should be treated as Master of Computer Applications.
+- PIET should be treated as Parul Institute of Engineering and Technology.
+- RN should be treated as React Native.
+
+The system should retrieve information related to both the abbreviation and its expanded form.
+
+Company Abbreviations and Aliases
+
+OESS refers to:
+
+- OpenEyes Technologies Inc.
+- OpenEyes Software Solution
+
+OpenEyes refers to:
+
+- OpenEyes Technologies Inc.
+- OpenEyes Software Solution
+
+OE refers to:
+
+- OpenEyes Technologies Inc.
+
+When a user asks about OESS, OpenEyes, or OE, all references should be understood as referring to OpenEyes Technologies Inc., the company where Jyot works.
+
+University and College Abbreviations
+
+PU stands for:
+
+Parul University
+
+PIET stands for:
+
+Parul Institute of Engineering and Technology
+
+PIET is Jyot's MCA college and is affiliated with Parul University.
+
+CVMU stands for:
+
+- CVM University
+- Charotar Vidya Mandal University
+
+NVPAS stands for:
+
+Natubhai V Patel College of Pure and Applied Sciences
+
+NVPAS is Jyot's BCA college.
+
+Degree Abbreviations
+
+MCA stands for:
+
+Master of Computer Applications
+
+Additional facts about MCA:
+
+- Institution: PIET, Parul University
+- CGPA: 8.93
+
+When users ask about MCA, postgraduate studies, master's degree, or Jyot's master's education, the system should associate these queries with Master of Computer Applications.
+
+BCA stands for:
+
+Bachelor of Computer Applications
+
+Additional facts about BCA:
+
+- Institution: NVPAS under CVM University
+- CGPA: 9.88
+- Achievement: Secured 2nd Rank
+
+When users ask about BCA, undergraduate studies, bachelor's degree, or college education, the system should associate these queries with Bachelor of Computer Applications.
+
+Project Abbreviations
+
+HRMS stands for:
+
+Human Resource Management System
+
+Context:
+
+The HRMS Timesheet application developed by Jyot at OpenEyes Technologies Inc.
+
+MDT stands for:
+
+Mobile Data Terminal
+
+Context:
+
+A law enforcement and public safety project associated with Jyot's professional experience.
+
+QR App refers to:
+
+OpenEyesTech Marketing Application
+
+Technology and Software Abbreviations
+
+RN stands for:
+
+React Native
+
+API stands for:
+
+Application Programming Interface
+
+REST stands for:
+
+Representational State Transfer
+
+DB stands for:
+
+Database
+
+OOP stands for:
+
+Object Oriented Programming
+
+CI/CD stands for:
+
+Continuous Integration and Continuous Deployment
+
+POC stands for:
+
+Proof of Concept
+
+Context:
+
+Unity-based Augmented Reality and Machine Learning experiments involving automated identification and extraction systems.
+
+AR stands for:
+
+Augmented Reality
+
+ML stands for:
+
+Machine Learning
+
+AI stands for:
+
+Artificial Intelligence
+
+LLM stands for:
+
+Large Language Model
+
+VRAM stands for:
+
+Video RAM
+
+Context:
+
+Frequently discussed in relation to Jyot's RTX 5070 GPU setup and AI experimentation.
+
+Role and Career Abbreviations
+
+SWE stands for:
+
+Software Engineer
+
+SDE stands for:
+
+Software Development Engineer
+
+GS stands for:
+
+General Secretary
+
+Context:
+
+Jyot served as General Secretary at NVPAS during his BCA studies from 2022 to 2023.
+
+Certification and Academic Abbreviations
+
+NPTEL stands for:
+
+National Programme on Technology Enhanced Learning
+
+Context:
+
+Several IIT-hosted certification courses completed by Jyot.
+
+IIT stands for:
+
+Indian Institute of Technology
+
+IIT-M stands for:
+
+Indian Institute of Technology Madras
+
+Associated achievement:
+
+Programming, Data Structures and Algorithms using Python certification with Elite status.
+
+IIT-KGP stands for:
+
+Indian Institute of Technology Kharagpur
+
+Associated achievement:
+
+Computer Networks and Internet Protocol certification with Elite + Silver distinction and Top 2% ranking.
+
+IIT-B stands for:
+
+Indian Institute of Technology Bombay
+
+Associated achievement:
+
+Java Training Certification.
+
+Event Abbreviations
+
+ICE refers to:
+
+An industry event or conference where the OpenEyesTech Marketing Application was demonstrated.
+
+ATP refers to:
+
+An event where the OpenEyesTech Marketing Application was showcased.
+
+Additional context:
+
+The application engaged more than 100 users during these demonstrations.
+
+Semantic Equivalence Examples
+
+The following terms should be treated as equivalent during retrieval:
+
+- OESS = OpenEyes = OpenEyes Technologies Inc.
+- MCA = Master of Computer Applications
+- BCA = Bachelor of Computer Applications
+- PIET = Parul Institute of Engineering and Technology
+- PU = Parul University
+- NVPAS = Natubhai V Patel College of Pure and Applied Sciences
+- CVMU = CVM University
+- RN = React Native
+- AI = Artificial Intelligence
+- ML = Machine Learning
+- LLM = Large Language Model
+- GS = General Secretary
+- SWE = Software Engineer
+- SDE = Software Development Engineer
+
+Summary
+
+This document enables abbreviation-aware retrieval throughout Jyot's memory system. It ensures that aliases, shorthand references, acronyms, and nicknames are consistently interpreted as their full forms so that users can retrieve accurate information regardless of whether they use abbreviations or complete names.

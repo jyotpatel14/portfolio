@@ -1,0 +1,419 @@
+Technical Skills, Technologies, and Engineering Expertise of Jyot Kalpesh Patel
+
+Jyot Kalpesh Patel is a software engineer whose technical expertise spans mobile application development, backend engineering, database systems, software architecture, cloud tools, and emerging artificial intelligence technologies.
+
+His experience has been built through academic projects, professional work at OpenEyes Technologies Inc., certifications, personal experimentation, and continuous learning.
+
+Technical Overview
+
+Jyot's primary areas of expertise include:
+
+- Mobile Application Development
+- Flutter Development
+- React Native Development
+- Backend API Development
+- Database Design
+- Software Architecture
+- Artificial Intelligence Exploration
+- Enterprise Application Development
+- Cloud and Development Tools
+
+Programming Languages
+
+Java
+
+Java was one of the earliest programming languages Jyot learned in depth.
+
+Additional background:
+
+- Received formal Java training through IIT Bombay.
+- Studied Servlets, JSP, JDBC, and enterprise Java concepts.
+- Built academic and backend-oriented projects using Java technologies.
+
+Java remains one of his strongest foundational programming languages.
+
+Dart
+
+Dart is the primary language used by Jyot for Flutter development.
+
+Professional usage includes:
+
+- Enterprise mobile applications.
+- Production Flutter applications.
+- State management architectures.
+- Cross-platform development.
+
+Most Dart experience was developed during his tenure at OpenEyes Technologies Inc.
+
+Kotlin
+
+Jyot has experience with Kotlin through Android development and mobile application engineering.
+
+His exposure increased during MCA studies, particularly through mobile development courses and Android application projects.
+
+C#
+
+Jyot has worked with C# and Microsoft-based development environments during academic learning and software engineering exploration.
+
+Python
+
+Python has been used for:
+
+- Academic learning.
+- Data structures and algorithms.
+- AI experimentation.
+- Automation tasks.
+- Research-oriented activities.
+
+Jyot also completed an NPTEL certification in Programming, Data Structures and Algorithms using Python from IIT Madras.
+
+JavaScript
+
+JavaScript has been used extensively for:
+
+- Web development.
+- Backend services.
+- Node.js applications.
+- React-based systems.
+- API development.
+
+Mobile Development Expertise
+
+Flutter
+
+Flutter is currently Jyot's primary mobile development stack.
+
+Professional experience includes:
+
+- Enterprise application development.
+- Production deployments.
+- State management architecture.
+- Cross-platform mobile applications.
+- Performance optimization.
+
+Specializations include:
+
+- BLoC Architecture
+- Provider State Management
+
+Notable Flutter Project
+
+- OpenEyesTech Marketing Application
+
+React Native
+
+Jyot has professional experience with React Native.
+
+Notable project:
+
+- HRMS Timesheet Module
+
+Areas of experience include:
+
+- Mobile UI development.
+- API integration.
+- Workforce management systems.
+- Enterprise mobile applications.
+
+Android Development
+
+Jyot has experience developing Android applications using:
+
+- Java
+- Kotlin
+
+Android development was explored extensively during academic projects and MCA coursework.
+
+Frontend Development
+
+ReactJS
+
+Jyot has worked with ReactJS for web application development and frontend engineering.
+
+Experience includes:
+
+- Component-based architecture.
+- Modern JavaScript workflows.
+- Frontend application development.
+
+ASP.NET / .NET
+
+Academic and project exposure includes:
+
+- MVC concepts.
+- Microsoft ecosystem development.
+- Web application fundamentals.
+
+Backend Development
+
+Node.js
+
+Node.js has been used for:
+
+- Backend services.
+- REST API development.
+- Application integrations.
+- Server-side programming.
+
+NestJS
+
+Jyot has worked with NestJS while exploring scalable backend architectures and enterprise application design.
+
+Areas of interest include:
+
+- Dependency Injection
+- Modular Architectures
+- Scalable APIs
+- Microservice-Oriented Development
+
+Next.js API Routes
+
+Professional backend development includes:
+
+- API route implementation.
+- Backend service integration.
+- Server-side business logic.
+
+Laravel
+
+Experience with Laravel primarily involved:
+
+- API integrations.
+- Backend communication.
+- Enterprise application workflows.
+
+Notable usage:
+
+- HRMS Timesheet Module
+
+Java Servlets and JSP
+
+Jyot has academic experience with:
+
+- Servlets
+- JSP
+- MVC Web Applications
+- Java Enterprise Concepts
+
+JDBC
+
+Used for:
+
+- Database connectivity.
+- Java-based data access.
+- SQL integration.
+
+Database Technologies
+
+PostgreSQL
+
+Experience includes:
+
+- Database design.
+- Query development.
+- Enterprise applications.
+
+MySQL
+
+Used extensively throughout:
+
+- Academic projects.
+- Backend systems.
+- Database management.
+
+MongoDB
+
+Experience includes:
+
+- NoSQL data modeling.
+- Application storage systems.
+- Modern backend architectures.
+
+Microsoft SQL Server (MSSQL)
+
+Exposure through:
+
+- Database coursework.
+- Enterprise database concepts.
+
+Firebase
+
+Firebase has been heavily used for:
+
+- Realtime Databases.
+- Firestore.
+- Authentication.
+- Mobile Backend Services.
+- Realtime Communication.
+
+Notable Project:
+
+- YourWay Travel Aggregator
+
+DevOps and Engineering Tools
+
+Git
+
+Used for:
+
+- Version control.
+- Branch management.
+- Team collaboration.
+
+GitHub
+
+Used for:
+
+- Source code hosting.
+- Portfolio projects.
+- Open-source workflows.
+
+Docker
+
+Experience includes:
+
+- Containerization.
+- Development environments.
+- Service deployment experiments.
+
+Cloudflared
+
+Used for:
+
+- Tunnel creation.
+- Local service exposure.
+- Development and testing workflows.
+
+JIRA
+
+Professional experience includes:
+
+- Sprint Planning.
+- Agile Development.
+- Task Tracking.
+- Project Management.
+
+Used extensively during work at OpenEyes Technologies Inc.
+
+Artificial Intelligence and Generative AI
+
+Generative AI has become one of Jyot's strongest areas of personal exploration.
+
+ComfyUI
+
+Used for:
+
+- Workflow engineering.
+- AI pipeline experimentation.
+- Image generation workflows.
+
+LoRA Models
+
+Experience includes:
+
+- Fine-tuning concepts.
+- Character workflows.
+- Model customization.
+
+RVC (Retrieval-Based Voice Conversion)
+
+Used for:
+
+- Voice synthesis experiments.
+- Audio workflows.
+
+Ollama
+
+Used for:
+
+- Local LLM deployment.
+- AI experimentation.
+- Private AI systems.
+
+RTX 5070 Workstation
+
+Jyot actively experiments with local AI infrastructure using an NVIDIA RTX 5070 GPU.
+
+Areas explored include:
+
+- Local LLMs.
+- Embeddings.
+- Vector Databases.
+- AI Workflows.
+- GPU-Accelerated Inference.
+
+Software Engineering Skills
+
+Additional technical strengths include:
+
+- Deep Linking
+- REST API Integration
+- State Management
+- Database Design
+- Object-Oriented Programming (OOP)
+- Agile Development
+- Sprint Planning
+- Enterprise Application Development
+
+State Management Expertise
+
+Primary state management approaches:
+
+- BLoC
+- Provider
+
+These patterns have been used extensively in production Flutter applications.
+
+Architecture Interests
+
+Areas Jyot actively studies and explores include:
+
+- Microservices Architecture
+- Scalable Backend Systems
+- Distributed Systems
+- Local AI Infrastructure
+- Enterprise Software Architecture
+- AI-Driven Application Design
+
+Technical Identity Summary
+
+Jyot Kalpesh Patel is a mobile-first software engineer with strong expertise in Flutter, React Native, Android development, backend APIs, database systems, and enterprise software development. His professional experience at OpenEyes Technologies Inc. is complemented by active exploration of AI infrastructure, local LLMs, generative AI workflows, and scalable software architectures. His technical interests increasingly focus on the intersection of mobile engineering, backend systems, microservices, and artificial intelligence.
+
+Key Retrieval Terms
+
+Flutter,
+React Native,
+Android Development,
+Java,
+Dart,
+Kotlin,
+Python,
+JavaScript,
+Node.js,
+NestJS,
+Next.js,
+Laravel,
+PostgreSQL,
+MySQL,
+MongoDB,
+Firebase,
+Git,
+GitHub,
+Docker,
+Cloudflared,
+JIRA,
+ComfyUI,
+LoRA,
+RVC,
+Ollama,
+RTX 5070,
+REST APIs,
+BLoC,
+Provider,
+Microservices,
+Database Design,
+Software Architecture,
+Enterprise Development,
+Local AI,
+LLMs,
+Mobile Development.

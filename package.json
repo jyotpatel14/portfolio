@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "dotenv": "^16.4.0",
+    "firebase-admin": "^12.1.0",
     "parcel-bundler": "^1.6.1"
   },
-  "scripts": {},
+  "scripts": {
+    "seed:firestore": "node scripts/seed-firestore.js"
+  },
   "devDependencies": {}
 }

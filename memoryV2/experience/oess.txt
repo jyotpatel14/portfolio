@@ -1,0 +1,143 @@
+Professional Experience of Jyot Kalpesh Patel
+
+Jyot Kalpesh Patel has been working at OpenEyes Technologies Inc. (also known as OESS, OpenEyes Software Solutions Pvt. Ltd., and OpenEyes) since December 2024. The organization is located in Vadodara, Gujarat, India, and his work arrangement has been primarily on-site.
+
+His professional journey at OpenEyes Technologies reflects a progression from an MCA internship position to a full-time software engineering role, demonstrating growth in technical expertise, ownership, enterprise software development, backend integration, and client-facing responsibilities.
+
+Overall Tenure
+
+Jyot joined OpenEyes Technologies Inc. in December 2024 and continues to work there. His total tenure currently exceeds one and a half years.
+
+Internship Experience – Products and Projects
+
+During the final semester of his Master of Computer Applications (MCA), Jyot joined OpenEyes Technologies Inc. as an Intern in the Products and Projects division from December 2024 to June 2025.
+
+As part of his internship, he contributed to the development of business-critical enterprise systems and mobile applications.
+
+One of his primary responsibilities was developing the HRMS Timesheet Module using React Native. This involved building features that enabled employees to log work activities, submit timesheets, and manage attendance records.
+
+He also worked extensively with Laravel-based backend APIs and implemented REST API integrations to enable secure and reliable data synchronization between mobile applications and backend systems.
+
+Key responsibilities during the internship included:
+
+- Development of the HRMS Timesheet mobile application module using React Native.
+- Integration of Laravel APIs for backend communication.
+- Implementation of work logging and attendance tracking functionality.
+- REST API integration for authenticated real-time data synchronization.
+- Mobile application feature development and testing.
+
+Technologies used during the internship included:
+
+- React Native
+- REST APIs
+- Authentication Systems
+- Mobile Application Development
+
+Impact of Internship Contributions
+
+Jyot's work helped reduce manual HR coordination efforts by streamlining employee work logging and attendance management processes through mobile-first solutions.
+
+Associate Developer / Associate Software Engineer
+
+After successfully completing his internship, Jyot transitioned into a full-time engineering role at OpenEyes Technologies Inc. in June 2025.
+
+He currently works as an Associate Developer and Associate Software Engineer(since April 2026), focusing on enterprise-grade mobile applications, backend services, software architecture, and client interactions.
+
+Enterprise Mobile Application Development
+
+A major part of Jyot's responsibilities involves designing and developing enterprise mobile applications using Flutter. His work includes implementing scalable architectures, reusable components, performance optimizations, and business workflows for production applications.
+
+State Management and Architecture
+
+Jyot has worked extensively with Flutter state management solutions including:
+
+- BLoC
+- Provider
+
+These technologies have been used to build maintainable and scalable application architectures suitable for enterprise environments.
+
+Backend Development
+
+In addition to frontend and mobile development, Jyot expanded into backend engineering responsibilities.
+
+His backend work includes:
+
+- Building APIs using Next.js.
+- Backend service integration.
+- API design and implementation.
+- Cross-system communication and data handling.
+
+Cross-Platform Application Improvements
+
+Jyot has contributed to improving application stability across Android and iOS platforms by:
+
+- Enhancing UI consistency.
+- Reducing platform-specific bugs.
+- Improving user experience.
+- Optimizing application behavior across devices.
+
+Client Interaction and Communication
+
+As his responsibilities expanded, Jyot became involved in direct client-facing activities.
+
+These responsibilities include:
+
+- Delivering client demonstrations.
+- Conducting technical walkthroughs.
+- Explaining application functionality.
+- Gathering requirements and feedback.
+- Supporting project discussions with stakeholders.
+
+Technologies Used in Full-Time Role
+
+Throughout his professional work at OpenEyes Technologies Inc., Jyot has worked with:
+
+- Flutter
+- React Native
+- Next.js
+- NestJS
+- Kotlin
+- Java
+
+Professional Impact
+
+His engineering contributions have resulted in measurable improvements including:
+
+- Approximately 25% reduction in integration time.
+- Approximately 30% improvement in backend response times.
+- Approximately 20% reduction in UI-related issues.
+
+Professional Growth Journey
+
+Jyot's career progression at OpenEyes Technologies Inc. demonstrates a clear evolution from an MCA intern to a professional software engineer.
+
+Key growth milestones include:
+
+- Successfully transitioning from internship to a full-time engineering role.
+- Expanding from mobile and frontend development into backend engineering.
+- Taking ownership of enterprise application architecture decisions.
+- Becoming involved in client communication and technical demonstrations.
+- Developing expertise in cross-platform application development and API integration.
+
+Areas of Expertise Developed
+
+Through his experience at OpenEyes Technologies Inc., Jyot has gained practical expertise in:
+
+- Flutter Development
+- React Native Development
+- Mobile Application Development
+- Backend API Development
+- Enterprise Software Engineering
+- State Management Architecture
+- NestJS
+- Kotlin
+- Java
+- REST APIs
+- Authentication Systems
+- Client Communication
+- Technical Presentations
+- Cross-Platform Development
+
+Summary
+
+Jyot Kalpesh Patel has been working at OpenEyes Technologies Inc. since December 2024. He began as an MCA intern working on HRMS and enterprise mobile solutions before progressing into a full-time Associate Developer and Associate Software Engineer role. His experience spans Flutter development, React Native applications, backend API development using Next.js, enterprise software architecture, client demonstrations, and cross-platform application optimization. His work has delivered measurable improvements in integration efficiency, backend performance, and user experience while supporting his growth into a well-rounded software engineer.

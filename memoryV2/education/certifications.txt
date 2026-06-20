@@ -1,0 +1,76 @@
+Certifications, Achievements, and Academic Recognition of Jyot Kalpesh Patel
+
+Jyot Kalpesh Patel has earned certifications and recognitions across software development, databases, networking, artificial intelligence, machine learning, and web technologies from organizations including HackerRank, IIT Madras, IIT Bombay, IIT Kharagpur, IBM, Coursera, LearnQuest, and Simplilearn.
+
+SQL and Database Certifications
+
+In November 2025, Jyot earned the SQL (Advance + Intermediate + Beginner) certification from HackerRank. The certification covered SQL, MySQL, Database Design, and Database Management Systems (DBMS). The credential ID is DF98B7568F92.
+
+Programming and Software Development Certifications
+
+In October 2024, Jyot completed the NPTEL course Programming, Data Structures and Algorithms using Python from the Indian Institute of Technology Madras (IIT Madras). He achieved Elite certification with a score of 63% and ranked among the top 2,000 students out of 10,000 certified learners. This certification strengthened his knowledge of Python programming, data structures, and algorithms. Credential ID: NPTEL24CS78S449300365.
+
+In July 2024, Jyot completed the Certificate for the Completion of Java Training from the Indian Institute of Technology Bombay (IIT Bombay). This certification focused on Java programming. Credential ID: 375538851C.
+
+In March 2024, Jyot completed the Java Servlet Basics and JSP 101 certification from Simplilearn, covering Java Servlets and JavaServer Pages (JSP). Credential ID: 5000152.
+
+In April 2024, he completed Getting Started with Full Stack Java Development from Simplilearn, gaining exposure to Java-based full-stack development practices. Credential ID: 5071166.
+
+Networking Certifications
+
+In April 2024, Jyot completed the NPTEL course Computer Networks and Internet Protocol from the Indian Institute of Technology Kharagpur (IIT Kharagpur). He achieved Elite + Silver certification with an outstanding score of 85%, placing him among the top 2% of certified students. The course focused on networking concepts and Internet Protocol technologies. Credential ID: NPTEL24CS19S469602285.
+
+Artificial Intelligence and Machine Learning Certifications
+
+In February 2023, Jyot completed Introduction to Artificial Intelligence (AI) from IBM, strengthening his understanding of AI concepts and applications. Credential ID: TYG4V7LXBP74.
+
+Also in February 2023, he completed Exploratory Data Analysis for Machine Learning from IBM, gaining knowledge of machine learning workflows, exploratory data analysis, and AI-related techniques. Credential ID: 8BHZMYB4GAZ7.
+
+Web Development Certifications
+
+In July 2022, Jyot completed JavaScript Basics from the University of California, Davis through Coursera. The course focused on JavaScript programming and web development concepts. Credential ID: UH7CBB4XNLE4.
+
+In July 2022, he also completed Java Database Connectivity (JDBC) Introduction from LearnQuest, gaining foundational knowledge of JDBC and Java-based database connectivity. Credential ID: 876R5ZH4RSDD.
+
+Academic Achievements
+
+Jyot secured 2nd Rank in the Bachelor of Computer Applications (BCA) program under CVM University, graduating with a CGPA of 9.88.
+
+He later completed the Master of Computer Applications (MCA) program at Parul University with a CGPA of 8.93.
+
+Research and Publication Achievements
+
+One of Jyot's most significant academic accomplishments was publishing his first review paper in a Scopus-indexed journal. The publication appeared in the International Journal of Applied Mathematics (IJAM) in November 2025.
+
+Notable Recognitions
+
+Jyot received the NPTEL Elite + Silver distinction from IIT Kharagpur for achieving 85% in the Computer Networks and Internet Protocol course and ranking within the top 2% of certified students.
+
+He also received NPTEL Elite certification from IIT Madras for the Programming, Data Structures and Algorithms using Python course, ranking among the top 2,000 students out of 10,000 certified learners.
+
+Knowledge Areas
+
+The certifications and achievements earned by Jyot collectively demonstrate expertise and interest in:
+
+Software Development,
+Mobile Application Development,
+Java Programming,
+Python Programming,
+Artificial Intelligence,
+Machine Learning,
+Networking,
+Internet Protocols,
+Database Systems,
+MySQL,
+DBMS,
+Algorithms,
+Data Structures,
+Web Development,
+Full Stack Development,
+JDBC,
+JSP,
+and Enterprise Application Development.
+
+Summary
+
+Jyot Kalpesh Patel has built a strong academic and technical profile through certifications from IIT Madras, IIT Bombay, IIT Kharagpur, IBM, Coursera, HackerRank, LearnQuest, and Simplilearn. His achievements include securing 2nd Rank in BCA with a CGPA of 9.88, completing MCA with a CGPA of 8.93, earning multiple NPTEL distinctions, and publishing a research paper in a Scopus-indexed journal.
