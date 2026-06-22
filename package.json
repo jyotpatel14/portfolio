@@ -1,14 +1,18 @@
 {
-  "name": "presentation-page",
-  "version": "1.0.0",
+  "name": "portfolio",
+  "version": "2.0.0",
   "private": true,
-  "dependencies": {
-    "dotenv": "^16.4.0",
-    "firebase-admin": "^12.1.0",
-    "parcel-bundler": "^1.6.1"
-  },
+  "type": "module",
   "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
     "seed:firestore": "node scripts/seed-firestore.js"
   },
-  "devDependencies": {}
+  "dependencies": {
+    "firebase": "^10.12.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
 }

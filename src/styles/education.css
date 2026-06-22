@@ -1,0 +1,27 @@
+.education-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 18px;
+}
+
+.education-card {
+  background: linear-gradient(180deg, rgba(17, 24, 47, 0.86), rgba(9, 13, 28, 0.86));
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 22px;
+}
+
+.education-card h3 {
+  margin-bottom: 8px;
+}
+
+.education-card p {
+  color: var(--muted);
+  line-height: 1.75;
+}
+
+@media (max-width: 980px) {
+  .education-grid {
+    grid-template-columns: 1fr;
+  }
+}
